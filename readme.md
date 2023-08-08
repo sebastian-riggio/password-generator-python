@@ -50,5 +50,6 @@ Copy code
 python manage.py runserver
 Abre tu navegador web y ve a http://127.0.0.1:8000 para acceder a la aplicación.
 
-![image](https://github.com/sebastian-riggio/password-generator-python/assets/84664104/6a63f165-c0ed-49bd-a732-97c3a3893ceb)
+
+![Captura de pantalla 2023-08-08 a la(s) 15 17 00](https://github.com/sebastian-riggio/password-generator-python/assets/84664104/67001011-0ff5-4895-8cb5-86a08d1f212d)
 
