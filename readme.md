@@ -15,6 +15,8 @@ Este generador de contraseñas ha sido construido utilizando las siguientes tecn
 - **Python Django:** El framework de aplicación web que potencia el backend.
 - **Bootstrap:** Un framework de diseño adaptable que garantiza una interfaz elegante y fácil de usar.
 
+![Captura de pantalla 2023-08-08 a la(s) 15 17 00](https://github.com/sebastian-riggio/password-generator-python/assets/84664104/59180247-efdc-44c0-8195-a78908ef62b1)
+
 ## Cómo Usar
 
 ### 1. Instalación de Python
@@ -22,7 +24,7 @@ Este generador de contraseñas ha sido construido utilizando las siguientes tecn
 Para comenzar, asegúrate de tener [Python](https://www.python.org/downloads/) instalado en tu sistema. Puedes verificar si ya tienes Python instalado abriendo una terminal y escribiendo:
 
 
-![Captura de pantalla 2023-08-08 a la(s) 15 17 00](https://github.com/sebastian-riggio/password-generator-python/assets/84664104/59180247-efdc-44c0-8195-a78908ef62b1)
+
 
 
 
