@@ -27,27 +27,18 @@ Si ves una versión de Python, ¡estás listo para continuar! Si no, descarga e 
 
 2. Instalación de Django
 Antes de continuar, asegúrate de tener pip instalado. pip es el gestor de paquetes de Python que necesitas para instalar Django. En la misma terminal, escribe:
-
-sh
-Copy code
-pip --version
+#pip --version
 Si pip está presente, estás listo para instalar Django. Si no, puedes instalarlo aquí.
 
 Ahora, instala Django utilizando el siguiente comando:
-
-sh
-Copy code
-pip install Django
+#pip install Django
 3. Ejecución de la Aplicación
 Clona o descarga este repositorio en tu computadora.
 
 Abre una terminal y navega al directorio del repositorio.
 
 Ejecuta el servidor de desarrollo de Django con el siguiente comando:
-
-sh
-Copy code
-python manage.py runserver
+#python manage.py runserver
 Abre tu navegador web y ve a http://127.0.0.1:8000 para acceder a la aplicación.
 
 
