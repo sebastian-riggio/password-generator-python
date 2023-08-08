@@ -21,6 +21,12 @@ Este generador de contraseñas ha sido construido utilizando las siguientes tecn
 
 Para comenzar, asegúrate de tener [Python](https://www.python.org/downloads/) instalado en tu sistema. Puedes verificar si ya tienes Python instalado abriendo una terminal y escribiendo:
 
+
+![Captura de pantalla 2023-08-08 a la(s) 15 17 00](https://github.com/sebastian-riggio/password-generator-python/assets/84664104/59180247-efdc-44c0-8195-a78908ef62b1)
+
+
+
+
 ```sh
 python --version
 Si ves una versión de Python, ¡estás listo para continuar! Si no, descarga e instala Python desde el enlace proporcionado.
@@ -42,5 +48,4 @@ Ejecuta el servidor de desarrollo de Django con el siguiente comando:
 Abre tu navegador web y ve a http://127.0.0.1:8000 para acceder a la aplicación.
 
 
-![Captura de pantalla 2023-08-08 a la(s) 15 17 00](https://github.com/sebastian-riggio/password-generator-python/assets/84664104/67001011-0ff5-4895-8cb5-86a08d1f212d)
 
